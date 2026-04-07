@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the intersection of privacy, psychology, and meta-science in the Psychology of Digilization Lab at University of Bern in Switzerland. My research is focused on data protection practices of researchers, especially in psychology. 
+I am a PhD student at the intersection of privacy, psychology, and meta-science in the [Psychology of Digitalization Lab](https://www.dig.psy.unibe.ch/index_eng.html) at the University of Bern in Switzerland. My research focuses on data protection practices of researchers, especially in psychology.
 
- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+---
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Open to Collaboration
+
+I am looking for collaborators interested in **privacy and data protection in research**. If you work on topics such as anonymization of research data, ethical data sharing, or the tension between Open Science and participant privacy, I would love to hear from you. Please feel free to reach out via email.
