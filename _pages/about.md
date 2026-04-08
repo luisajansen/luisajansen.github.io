@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: "Luisa Jansen — Privacy & Data Protection in Research"
 permalink: /
 
 profile:
