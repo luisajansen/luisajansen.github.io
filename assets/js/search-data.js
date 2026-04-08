@@ -451,11 +451,25 @@ ninja.data = [{
           window.open("mailto:%6C%75%69%73%61.%6A%61%6E%73%65%6E@%75%6E%69%62%65.%63%68", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-8126-1306", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=fnrqX9gAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/luisa-jansen-7663921bb", "_blank");
         },
       },{
         id: 'social-rss',
