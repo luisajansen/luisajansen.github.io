@@ -30,4 +30,4 @@ I am a PhD student at the intersection of privacy, psychology, and meta-science 
 
 #### Open to Collaboration
 
-I am looking for collaborators interested in **privacy and data protection in research**. If you work on topics such as anonymization of research data, ethical data sharing, or the tension between Open Science and participant privacy, I would love to hear from you. Please feel free to reach out via email.
+I am looking for collaborators interested in **privacy and data protection in research**. If you work on topics such as anonymization of research data, data rights of research participants, or the tension between Open Science and participant privacy, I would love to hear from you. Please feel free to reach out via email.
