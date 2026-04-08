@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-luisa-jansen-privacy-data-protection-in-research",
+    title: "Luisa Jansen — Privacy & Data Protection in Research",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
