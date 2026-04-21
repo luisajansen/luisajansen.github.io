@@ -8,7 +8,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    © Daniel Rihs
+    <div class="contact-card">
+      <p><i class="fa-solid fa-building-columns"></i> University of Bern</p>
+      <p><i class="fa-solid fa-envelope"></i> <a href="mailto:luisa.jansen@unibe.ch">luisa.jansen@unibe.ch</a></p>
+      <p>
+        <a href="https://scholar.google.de/citations?user=fnrqX9gAAAAJ&hl=de" target="_blank" class="contact-btn">Google Scholar</a>
+        <a href="https://www.linkedin.com/in/luisa-jansen-7663921bb/" target="_blank" class="contact-btn">LinkedIn</a>
+      </p>
+      <p><small style="color: var(--global-text-color-light);">© Daniel Rihs</small></p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
