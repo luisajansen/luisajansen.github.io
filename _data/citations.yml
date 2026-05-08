@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-08'
 papers:
   fnrqX9gAAAAJ:2osOgNQ5qMEC:
-    citations: 17
+    citations: 18
     title: 'Home Is Where the Smart Is: Development and Validation of the Cybersecurity Self-Efficacy in Smart Homes (CySESH) Scale'
     year: '2023'
   fnrqX9gAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Do I Value My Private Data? Exploring Model-Driven Predictions on the Willingness to Use Smart Home Devices
     year: '2026'
   fnrqX9gAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 9
     title: Out of Sight, Out of Mind? Exploring Data Protection Practices for Personal Data in Usable Security & Privacy Studies
     year: '2025'
   fnrqX9gAAAAJ:WF5omc3nYNoC:
@@ -34,6 +34,6 @@ papers:
     title: 'Putting Privacy to the Test: Introducing Red Teaming for Research Data Anonymization'
     year: '2026'
   fnrqX9gAAAAJ:qjMakFHDy7sC:
-    citations: 37
+    citations: 41
     title: 'Self-Efficacy and Security Behavior: Results From a Systematic Review of Research Methods'
     year: '2024'
