@@ -18,7 +18,7 @@ profile:
       <p><small style="color: var(--global-text-color-light);">© Daniel Rihs</small></p>
     </div>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # publications are listed in full within the page content below
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -39,3 +39,13 @@ I am a PhD student at the intersection of privacy, psychology, and meta-science 
 #### Open to Collaboration
 
 I am looking for collaborators interested in **privacy and data protection in research**. If you work on topics such as anonymization of research data, data rights of research participants, or the tension between Open Science and participant privacy, I would love to hear from you. Please feel free to reach out via email.
+
+---
+
+## Publications
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
